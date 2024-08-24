@@ -1,0 +1,13 @@
+/* #footer{
+    background-color: aquamarine;
+} */
+.footer{
+    /* background-image: url("footerback.jpg"); */
+    background-color: rgb(27, 27, 27);
+    margin-top: 3%;
+    color: aliceblue;
+}
+.left{
+    text-align: left;
+    margin-left: 0px;
+}
